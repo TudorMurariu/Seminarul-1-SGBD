@@ -1,4 +1,5 @@
-﻿namespace Seminarul_1_SGBD
+﻿using Microsoft.Data.SqlClient;
+namespace Seminarul_1_SGBD
 {
     internal class Program
     {
