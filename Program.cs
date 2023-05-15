@@ -1,4 +1,5 @@
 ﻿using Microsoft.Data.SqlClient;
+// pachet folosit : Microsoft.Data.SqlClient
 using System;
 using System.Data;
 
